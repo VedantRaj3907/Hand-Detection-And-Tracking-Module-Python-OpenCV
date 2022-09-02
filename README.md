@@ -55,6 +55,6 @@ Go to your Cmd or Python Shell or Anaconda Prompt (if using spyder or Jupyter)
 - And a Temp **main()** to run the file
 
 
-# Please Give Star :star: if you like the Project and visit other Projects to :heart:
+# Please Give Star :star: if you like the Project and visit other Projects too :heart:
 
 
